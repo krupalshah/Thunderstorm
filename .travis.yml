@@ -1,1 +1,7 @@
+build: source/THUNDER.c
+
 language: c
+
+compiler:
+  - clang
+  - gcc
